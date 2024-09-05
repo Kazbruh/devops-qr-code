@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-        - 'api/dockerfile'
-        - 'front-end-nextjs/dockerfile'
+        - 'api/Dockerfile'
+        - 'front-end-nextjs/Dockerfile'
 
 jobs:
   publish_images:
